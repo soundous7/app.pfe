@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "Day": "sunday",
+      "breakfast": "Berry Yogurt Bowl",
+      "lunch": "Chicken Pasta Salad",
+      "dinner": "Noodles"
+    },
+    {
+      "id": 2,
+      "Day": "monday",
+      "breakfast": "Pancake",
+      "lunch": "Chicken Wrap",
+      "dinner": "Biscuit Bake"
+    },
+    {
+      "id": 3,
+      "Day": "tuesday",
+      "breakfast": "Roasted Potato",
+      "lunch": "BBQ Chicken Salad",
+      "dinner": "Taco Soup"
+    },
+    {
+      "id": 4,
+      "Day": "wednesday",
+      "breakfast": "French Toast ",
+      "lunch": "Fish Taco Bowls",
+      "dinner": "Pizza"
+    },
+    {
+      "id": 5,
+      "Day": "thursday",
+      "breakfast": "Egg Sandwiches",
+      "lunch": "Tofu Stir-Fry",
+      "dinner": "Ommu rice"
+    }
+  ]

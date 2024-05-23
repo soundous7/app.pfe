@@ -22,7 +22,7 @@
     font-size: 90px;
     height: 60px;
     font-weight: 50;
-    color: black;
+    color: orange;
   }
   
   .headerContainer p {
@@ -38,7 +38,7 @@
     border-radius: 5px;
     cursor: pointer;
     justify-content: center;
-    background-color: #121619;
+    background-color: orange;
     height: 50px;
     width: 180px;
     color: white;

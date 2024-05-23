@@ -7,6 +7,7 @@
     flex-direction: column;
   }
   .menu .menuTitle {
+    color: orange;
     font-family: cursive;
     font-size: 60px;
   }

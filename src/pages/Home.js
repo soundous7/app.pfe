@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import BannerImage from "../assets/C.jpg";
+import BannerImage from "../assets/C.png";
 import "../styles/Home.css";
 
 
@@ -8,10 +8,10 @@ function Home() {
   return (
     <div className="home" style={{ backgroundImage: `url(${BannerImage})` }}>
       <div className="headerContainer">
-        <h1> Home Made </h1>
-        <p> RECIPES TO FIT ANY TASTE</p>
+      <h1> MyRadio  </h1> 
+      <p> Enjoy wherever you are</p>
         <Link to="/recipes">
-          <button> ENTER NOW </button>
+          <button> WELCOME </button>
         </Link>
       </div>
     </div>
